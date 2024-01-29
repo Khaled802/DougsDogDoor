@@ -12,6 +12,7 @@
 ## Advices
    - You should figure out what the customer really wants
    - Ask the customer for more information (beyond what the customer asked)
+   - Go back to requirements after finishing the use-case to make sure it matches it
 
 
 ## notes
@@ -24,6 +25,7 @@
      - Clear value: the goal
      - Start & Stop
      - External Initiator: Someone outside the system start the use-case
+   - Main Path (Happy path): this the path which everything goes right, It is usually the customers description
 ----------------------------------------------------------------
 
 ## Version 2.0
