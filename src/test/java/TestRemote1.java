@@ -1,7 +1,7 @@
 import org.example.door.DogDoor;
 import org.example.door.Remote;
 
-public class Test1 {
+public class TestRemote1 {
     public static void main(String[] args) {
         DogDoor door = new DogDoor();
         Remote remote = new Remote(door);

@@ -26,6 +26,8 @@
      - Start & Stop
      - External Initiator: Someone outside the system start the use-case
    - Main Path (Happy path): this the path which everything goes right, It is usually the customers description
+   - The only constant in software is **CHANGE**
+   - Alternative Path: is the optional path and provides different paths for the same goal of Main path
 ----------------------------------------------------------------
 
 ## Version 2.0
@@ -49,3 +51,7 @@
   8. The Dog Door closes automatically 
 
 
+## Version 2.2
+### What is the Dog Door do
+    - By adding recognizer
+![use-case 2.2](./images/img_1.png)

@@ -1,7 +1,7 @@
 import org.example.door.DogDoor;
 import org.example.door.Remote;
 
-public class Test2 {
+public class TestRemote2 {
     public static void main(String[] args) throws InterruptedException {
         DogDoor door = new DogDoor();
         Remote remote = new Remote(door);
